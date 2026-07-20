@@ -54,7 +54,7 @@ The project was designed with the following objectives:
 
 ## Global Architecture
 
-``text
+```text
 Phase 1 ─ Operating System Foundations
         │
         ▼
@@ -165,7 +165,7 @@ All significant architectural decisions are documented in the project's Decision
 
 ## Repository Structure
 
-``text
+```text
 CNAPP-Engine/
 ├── README.md
 ├── phase-1/
