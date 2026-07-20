@@ -68,7 +68,7 @@ Phase 4 ─ Storage & Caching Layer
         │
         ▼
 Phase 5 ─ Cloud-Native REST Platform
-
+```
 
 Each phase is intentionally independent while contributing to the overall architecture of the platform.
 
@@ -183,7 +183,7 @@ CNAPP-Engine/
 └── phase-5/
     ├── docs/
     └── src/
-
+```
 ## Documentation
 The repository includes complementary engineering documentation:
 
