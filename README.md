@@ -1,7 +1,8 @@
 # CNAPP Engine — Cloud Infrastructure Security Laboratory
-### Cloud-Native Security Platform for Infrastructure Protection, Distributed Systems and Software Engineering
 
-A modular engineering project that explores the complete software stack—from operating system primitives and low-level programming to cloud-native applications deployed on AWS.
+### A software engineering laboratory focused on cloud infrastructure, systems programming, software architecture and cloud-native security.
+
+A modular engineering project exploring the complete software stack—from operating system primitives and custom data structures to distributed systems and cloud-native applications deployed on AWS.
 
 ---
 
